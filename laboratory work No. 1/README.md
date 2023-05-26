@@ -14,6 +14,7 @@
 Результат работы: была создана клиент-серверная система на основе заданного протокола обмена данными. В приложении реализованы все необходимые настройки и функциональности, включая подсчет соединений на сервере и возможность настройки удаленного адреса и порта для клиента. Кроме того, реализованы дополнительные настройки, позволяющие гибко настроить систему для работы с разными устройствами.
 
 Выводы: разработка клиент-серверной системы является достаточно сложным процессом, но с помощью средств Visual Studio на платформе Win32, можно создать удобное и функциональное приложение, которое будет успешно использоваться пользователями. Важным условием является наличие удобного графического интерфейса, который облегчит работу с приложением, а также гибкие настройки, которые позволят адаптировать систему к конкретным требованиям пользователей.
+
 -----
 
 Purpose of work: to develop a client-server system that implements a given data exchange protocol with the ability to configure the server and the client.
@@ -30,5 +31,3 @@ Workflow:
 Result of the work: a client-server system based on the specified data exchange protocol was created. All necessary settings and functionality were implemented in the application, including connection counting on the server and the ability to configure remote address and port for the client. In addition, additional settings are implemented, allowing the system to be flexibly configured to work with different devices.
 
 Conclusion: developing client-server system is a rather complicated process, but using Visual Studio tools on Win32 platform you can create a convenient and functional application, which will be successfully used by users. An important condition is the availability of a user-friendly graphical interface, which will facilitate the work with the application, as well as flexible settings, which will allow to adapt the system to the specific requirements of users.
-
-Translated with www.DeepL.com/Translator (free version)
